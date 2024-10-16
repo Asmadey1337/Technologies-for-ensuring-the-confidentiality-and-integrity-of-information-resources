@@ -1,0 +1,20 @@
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Диплом копія\диплом\цілісність і конфіденційність\Програма\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
